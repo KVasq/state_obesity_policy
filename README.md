@@ -8,7 +8,8 @@ Analysis on how much school lunch policies impact childhood obesity.
 
 The National School Lunch Program is proven to provide more school children with more nutritional content [1](https://frac.org/wp-content/uploads/school-nutrition-brief.pdf), however for this research I try to find a direct link between NSLP implementation and health improvements, currently there doesn't seem to be the necessary NSLP data, in addition to child health data to do direct analysis. Observing obesity rates from the perspective of program eligibility doesn't work well since both eligibility and obesity are co-effects of state poverty, making it difficult to compare performance state-by-state and draw a causal link. This research is on hold for now but was a good introduction to using map graphs in R.
 
-Sources
+Sources:
+
 Child Health Data:
 https://www.census.gov/data/datasets/2019/demo/nsch/nsch2019.html
 
